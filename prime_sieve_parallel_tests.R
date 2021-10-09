@@ -1,3 +1,17 @@
+## -------------------------
+##
+## Script name: prime_sieve_parallel_tests.R
+## Purpose of script: Test parLapply and mclapply as alternatives to lapply in prime calculation
+## Author: Mart Roben
+## Date Created: 9 Oct 2021
+##
+## Copyright: BSD-3-Clause
+## https://github.com/martroben/parallel_primes
+##
+## Contact: fb.com/mart.roben
+##
+## ---------------------------
+
 
 #################
 # Load packages #
